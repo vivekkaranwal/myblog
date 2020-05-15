@@ -1,0 +1,294 @@
+Unminify JS, CSS, HTML
+Free tool to unminify JS, CSS, HTML online
+
+body {
+    background: #f8e1f4
+}
+
+.navbar {
+    background-color: #fff;
+    border: none;
+    font-family: 'Bitter', serif
+}
+
+.navbar-nav {
+    padding-right: 150px;
+    padding-top: 10px
+}
+
+.navigation .navbar .navbar-nav .nav-item a {
+    color: #fff;
+    font-family: 'Bitter', serif;
+    padding: 10px
+}
+
+.navigation .navbar .navbar-nav .nav-item a:hover {
+    color: #000
+}
+
+.navbar .navbar-brand {
+    color: #fff;
+    font-family: 'Great Vibes', cursive;
+    font-weight: 700;
+    font-size: 40px;
+    padding-top: 10px;
+    padding-left: 100px;
+    letter-spacing: 5px
+}
+
+.navbar .navbar-brand:hover {
+    color: #000
+}
+
+.navbar {
+    background: #4cbbb9;
+    padding-top: 20px
+}
+
+.site-main {
+    background: #4cbbb9;
+    padding: 100px
+}
+
+.banner-image {
+    height: 300px;
+    width: 300px;
+    margin-left: 200px
+}
+
+.text {
+    font-family: 'Bitter', serif;
+    padding: 10px;
+    letter-spacing: 6px;
+    margin: 10px;
+    text-align: center;
+    margin: 20px
+}
+
+.site-title {
+    text-align: left;
+    padding-left: 30px;
+    color: #fff
+}
+
+#button1 {
+    margin-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background: #fff
+}
+
+#button1:hover {
+    background: #116979;
+    color: #fff
+}
+
+hr {
+    margin: 0
+}
+
+.site-title .vivek {
+    font-size: 50px;
+    margin: 20px
+}
+
+.about-img {
+    height: 500px;
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 50px
+}
+
+.about-section {
+    background: #eff3c6
+}
+
+.about-title {
+    padding-top: 100px;
+    font-family: 'Bitter', serif
+}
+
+#button2 {
+    background: #fb9224;
+    margin-bottom: 100px;
+    font-family: 'Bitter', serif
+}
+
+#button2:hover {
+    background: #fbe555
+}
+
+@media (max-width:1028px) {
+    .about-section {
+        background: #eff3c6;
+        margin-bottom: 20px;
+        text-align: center;
+        font-family: 'Bitter', serif
+    }
+    .about-section .paragrapgh {
+        text-align: center;
+        font-family: 'Bitter', serif;
+        margin: auto
+    }
+    .about-title {
+        padding-top: 100px;
+        text-align: center;
+        font-family: 'Bitter', serif
+    }
+    .banner-image {
+        height: 300px;
+        width: 300px;
+        margin-left: 200px;
+        margin-top: 30px
+    }
+    .navigation .navbar .navbar-nav .nav-item a {
+        color: #fff;
+        font-family: 'Bitter', serif;
+        padding-left: 100px
+    }
+    .navbar-toggler {
+        margin: 50px
+    }
+}
+
+.brandclass {
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    margin-bottom: 40px
+}
+
+.single-brad:hover {
+    transform: scale(1.5)
+}
+
+.paddingbrand {
+    padding: 30px;
+    text-align: center
+}
+
+.callpadding {
+    text-align: center;
+    margin-bottom: 40px
+}
+
+.imagelogo {
+    width: 350px;
+    height: 350px;
+    margin-top: 10px;
+    padding-bottom: 50px
+}
+
+.brand-area {
+    padding-top: 100px;
+    background: #f8e1f4
+}
+
+.brandpadding {
+    background: #f8e1f4
+}
+
+.imglogo {
+    filter: brightness(.2)
+}
+
+.imglogo:hover {
+    filter: brightness(0)
+}
+
+.serviceArea {
+    width: 80%;
+    margin: auto
+}
+
+.homebanner {
+    padding-top: 150px;
+    padding-bottom: 100px;
+    background: #9be3de;
+    color: #000;
+    font-family: 'Bitter', serif;
+    text-align: center
+}
+
+.serviceimage {
+    margin-top: 50px
+}
+
+.servicepadding {
+    padding-top: 100px;
+    padding-bottom: 50px
+}
+
+.servicepadding:hover {
+    transform: scale(1.1);
+    background: #63b7af
+}
+
+.servicetext {
+    margin-top: 60px;
+    padding: 10px
+}
+
+.project-area {
+    padding-top: 100px;
+    font-family: 'Bitter', serif;
+    text-align: center
+}
+
+.img:hover {
+    transform: scale(1.1)
+}
+
+.slide {
+    text-align: center;
+    background: #cf7500;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: #fff
+}
+
+.active {
+    margin: 20px
+}
+
+.myrecent {
+    text-align: center;
+    padding-bottom: 40px;
+    ;
+    padding-left: 40px;
+    font-family: 'Bitter', serif;
+    background: #cf7500;
+    padding-top: 100px;
+    color: #fff;
+    font-size: 100px
+}
+
+.img:hover {
+    transform: scale(1.1)
+}
+
+.divtext {
+    padding-top: 30px
+}
+
+.social {
+    margin: 20px;
+    font-weight: 700;
+    color: #000
+}
+
+#lasttext {
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: #000
+}
+
+#footer {
+    text-align: center;
+    padding: 40px;
+    background-color: #b0eacd
+}
+  
+
+ 
+    
